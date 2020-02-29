@@ -1,2 +1,4 @@
 # refactored
-refactoring given HTML and CSS
+refactoring given HTML and CSS files
+
+Collaborated with John Kang
